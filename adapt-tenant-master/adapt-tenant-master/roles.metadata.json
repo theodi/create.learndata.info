@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "adapt-tenant-master.roles", "name" : "_id_" }, { "v" : 1, "key" : { "name" : 1 }, "unique" : true, "ns" : "adapt-tenant-master.roles", "name" : "name_1", "background" : true } ] }
